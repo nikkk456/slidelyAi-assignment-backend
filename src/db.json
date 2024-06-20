@@ -1,0 +1,32 @@
+{
+  "submissions": [
+    {
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "phone": "1234567890",
+      "github_link": "https://github.com/johndoe",
+      "stopwatch_time": "00:10:23.123"
+    },
+    {
+      "name": "testing1",
+      "email": "testing2",
+      "phone": "testing3",
+      "github_link": "testing4",
+      "stopwatch_time": ""
+    },
+    {
+      "name": "tets",
+      "email": "testing",
+      "phone": "fuck",
+      "github_link": "test",
+      "stopwatch_time": "00:00:06"
+    },
+    {
+      "name": "test1",
+      "email": "test2",
+      "phone": "test3",
+      "github_link": "test4",
+      "stopwatch_time": "00:00:05"
+    }
+  ]
+}
