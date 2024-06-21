@@ -20,11 +20,14 @@ This is the backend server for the Slidely Form App. It is built with Express an
    cd slidelyAi-assignment-backend
 
 2. **Install Dependencies**:
+   ```bash
     npm install
 
 3. **Start the server**:
+   ```bash
     npm run start
-    // The server will be started on localhost:3000 port and you can start using its services
+   
+// The server will be started on localhost:3000 port and you can start using its services
 
 ## API endpoint
 
@@ -39,9 +42,14 @@ This is the backend server for the Slidely Form App. It is built with Express an
     - Method: 'POST'
 
 3. **Read**
-    - URL: 'read'
+    - URL: '/read'
     - Description: 'This endpoint is used to read a form submission by its index.'
     - Method: 'GET'
+
+4. **Delete**
+    - URL: '/delete'
+    - Description: 'This endpoint is used to delete a submitted entry'
+    - Method: 'delete'
 
 ## JSON Database Structure
 
